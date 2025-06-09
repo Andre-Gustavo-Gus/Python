@@ -1,4 +1,6 @@
-# Este é um programa simples em Python que simula diferentes formas de pagamento em uma loja. Dependendo da escolha do usuário, ele aplica descontos, mantém o valor original ou adiciona juros.
+#OPÇÕES DE PAGAMENTO
+
+ Este é um programa simples em Python que simula diferentes formas de pagamento em uma loja. Dependendo da escolha do usuário, ele aplica descontos, mantém o valor original ou adiciona juros.
 
 * Pagamento à vista com dinheiro/cheque (10% de desconto)
 
